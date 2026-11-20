@@ -2,7 +2,6 @@
 node_modules/
 package.json
 server.js
-vercel.json
 
 # Legacy scraped backup files
 legacy/
