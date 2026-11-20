@@ -1,0 +1,61 @@
+<!doctype html>
+<html data-ls-invite-data="wedding.json" lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammed &amp; Fathimah | Wedding Invitation</title>
+    <meta name="description" content="Muhammed &amp; Fathimah | Wedding Invitation">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Muhammed &amp; Fathimah | Wedding Invitation">
+    <meta property="og:description" content="Wedding Invitation of Muhammed &amp; Fathimah">
+    <meta property="og:image" content="./assets/media/intro-poster.jpg">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Muhammed &amp; Fathimah | Wedding Invitation">
+    <meta property="twitter:description" content="Wedding Invitation of Muhammed &amp; Fathimah">
+    <meta property="twitter:image" content="./assets/media/intro-poster.jpg">
+
+    <!-- Fonts & CSS -->
+    <link rel="stylesheet" href="./assets/css/fonts.css">
+    <link rel="stylesheet" href="./assets/css/styles.css">
+
+    <!-- Animation & App Scripts -->
+    <script src="./assets/js/gsap.min.js" defer></script>
+    <script src="./assets/js/ScrollTrigger.min.js" defer></script>
+    <script src="./assets/js/script.js" defer></script>
+  </head>
+  <body data-lang="en" class="has-intro-active">
+
+    <div id="envelope-wrapper" class="envelope-wrapper video-intro-wrapper">
+      <div id="video-intro" class="video-intro" role="button" tabindex="0" aria-label="Play wedding intro">
+        <video id="intro-video" class="intro-video-gate" src="./assets/media/intro.mov" poster="./assets/media/intro-poster.jpg" preload="metadata" playsinline muted></video>
+        <div class="video-intro-shade" aria-hidden="true"></div>
+        <div class="video-intro-copy">
+          <p>Tap to Open</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="floating-controls">
+      <div class="lang-switch" id="language-switch" aria-label="Language switch" style="display: none;"></div>
+      <button id="music-toggle" class="music-toggle audio-pulse" type="button" aria-label="Play music">
+        <svg id="icon-play" class="music-icon is-visible" fill="currentColor" viewbox="0 0 24 24" aria-hidden="true">
+          <path d="M8 5v14l11-7z"></path>
+        </svg>
+        <svg id="icon-pause" class="music-icon" fill="currentColor" viewbox="0 0 24 24" aria-hidden="true">
+          <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"></path>
+        </svg>
+      </button>
+    </div>
+
+    <audio id="bg-music" preload="metadata"></audio>
+
+    <main id="site-root" class="site-root">
+      <div class="loading-state">Loading your invitation...</div>
+    </main>
+
+    <!-- Envelope intro script (runs after DOM is ready) -->
+    <script src="./assets/js/envelope.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,117 @@
+﻿{
+  "active": true,
+  "siteType": "noor-lanterns-wedding-invite",
+  "theme": "noor-lanterns",
+  "couple": {
+    "partnerOne": "Muhammed",
+    "partnerTwo": "Fathimah",
+    "connector": "&"
+  },
+  "event": {
+    "day": "21",
+    "month": "June",
+    "year": "2026",
+    "venue": "Nikkah Day Venue",
+    "city": "India"
+  },
+  "copy": {
+    "parentsLineOne": "Dr. Fathimah Thajudheen â€” D/o Thajudheen & Ruksana Sulthana",
+    "parentsLineTwo": "Muhammed Shihabudheen â€” S/o Abid TP (late) & Shamila Abid",
+    "familyBody": "With the love and blessings of both families.",
+    "invitationLine": "We cordially request the honour of your presence for the wedding of",
+    "withLoveLine": "With love and blessings from both families",
+    "detailsTitle": "Things to Know",
+    "closingMessage": "Our families look forward to celebrating these beautiful wedding moments with you.",
+    "closingTitle": "We Are Getting Married"
+  },
+  "assets": {
+    "introVideo": "./assets/media/intro.mov",
+    "introPoster": "./assets/media/intro-poster.jpg",
+    "music": "./assets/media/bismillah.mp3",
+    "topBackground": "./assets/media/top-background.png",
+    "calligraphy": "./assets/media/ganesha.png",
+    "eventCard": "./assets/media/event-card.png",
+    "eventFlowerTop": "./assets/media/event-flower-top.png",
+    "eventFlowerBottom": "./assets/media/event-flower-bottom.png",
+    "carThree": "./assets/media/car-three.png",
+    "scratchGold": "./assets/media/scratch-gold.png",
+    "lanternOne": "./assets/media/lantern-one.png",
+    "lanternTwo": "./assets/media/lantern-two.png"
+  },
+  "events": [
+    {
+      "name": "MUTTIPAATTU RAAVU",
+      "date": "20th June 2026",
+      "venue": "Singapore Castle",
+      "time": "7:00 PM - 9:00 PM",
+      "dressCode": "Dress code: Dark colours",
+      "mapUrl": "https://share.google/TNWjVDT1TrcKpQJxX",
+      "imageSrc": "./assets/media/venue1.PNG"
+    },
+    {
+      "name": "NIKKAH DAY",
+      "date": "21st June 2026",
+      "venue": "Nikkah Day Venue",
+      "time": "12:00 PM",
+      "dressCode": "Dress code: Pastel colors",
+      "mapUrl": "https://share.google/GN5cZMhCpRV0RkjPP",
+      "imageSrc": "./assets/media/section-night-bg.png"
+    }
+  ],
+  "seo": {
+    "title": "Muhammed & Fathimah | Noor Lanterns Wedding Invitation",
+    "description": "Celebrate the wedding of Muhammed and Fathimah with Noor Lanterns by Noor Invites Nagpur.",
+    "canonicalUrl": "",
+    "previewImage": "./assets/media/intro-poster.jpg"
+  },
+  "editor": {
+    "partnerOrder": "groomFirst",
+    "showParents": true,
+    "showGrandparents": true,
+    "fields": {
+      "brideName": "Dr. Fathimah Thajudheen",
+      "groomName": "Muhammed Shihabudheen",
+      "date": "21 June 2026",
+      "venue": "Nikkah Day Venue",
+      "city": "India",
+      "brideFather": "Thajudheen",
+      "brideMother": "Ruksana Sulthana",
+      "groomFather": "Abid TP (late)",
+      "groomMother": "Shamila Abid",
+      "brideGrandfather": "",
+      "brideGrandmother": "",
+      "groomGrandfather": "",
+      "groomGrandmother": ""
+    }
+  },
+  "rsvpForm": {
+    "fields": [
+      {
+        "key": "guestName",
+        "label": "Your name",
+        "required": true
+      },
+      {
+        "key": "mobileNumber",
+        "label": "Mobile number",
+        "required": true
+      },
+      {
+        "key": "attendance",
+        "label": "Attending",
+        "required": true
+      },
+      {
+        "key": "familyGuestCount",
+        "label": "Guests",
+        "required": false
+      },
+      {
+        "key": "message",
+        "label": "Message",
+        "required": false
+      }
+    ]
+  }
+}
+

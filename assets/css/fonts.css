@@ -1,0 +1,179 @@
+﻿@font-face {
+  font-family: 'Aboreto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/aboreto/v2/5DCXAKLhwDDQ4N8blKQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alex Brush';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/alexbrush/v23/SZc83FzrJKuqFbwMKk6EtUI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_dq6A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9TQ7Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTQ7Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTQ7Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9UQ7Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUQ7Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cormorantupright/v19/VuJrdM3I2Y35poFONtLdafkUCHw1y2vV.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/cormorantupright/v19/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpxDs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/cormorantupright/v19/VuJudM3I2Y35poFONtLdafkUCHw1y1MNoBDs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/cormorantupright/v19/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoRDs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gotu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/gotu/v18/o-0FIpksx3QOlH0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Kannada';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../fonts/notosanskannada/v32/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Kannada';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../fonts/notosanskannada/v32/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Kannada';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../fonts/notosanskannada/v32/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yaldevi';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/yaldevi/v17/cY9afj6VW0NMrDWtDNzCOwlPMq9SLpcvJzvo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yaldevi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/yaldevi/v17/cY9afj6VW0NMrDWtDNzCOwlPMq9SLpdxJzvo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yaldevi';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/yaldevi/v17/cY9afj6VW0NMrDWtDNzCOwlPMq9SLpdDJzvo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yaldevi';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/yaldevi/v17/cY9afj6VW0NMrDWtDNzCOwlPMq9SLpevIDvo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yaldevi';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/yaldevi/v17/cY9afj6VW0NMrDWtDNzCOwlPMq9SLpeWIDvo.ttf) format('truetype');
+}
+

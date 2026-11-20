@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Legacy scraped backup files
+legacy/
+
+# Local data & logs
+rsvps.json
+*.log
+.DS_Store
+Thumbs.db

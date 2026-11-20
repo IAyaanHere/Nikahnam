@@ -1,0 +1,16 @@
+{
+  "name": "nikah-wedding-invitation",
+  "version": "1.0.0",
+  "description": "Muhammed & Fathimah Nikah / Wedding Invitation Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "wedding",
+    "invitation",
+    "nikah"
+  ],
+  "author": "",
+  "license": "ISC"
+}
